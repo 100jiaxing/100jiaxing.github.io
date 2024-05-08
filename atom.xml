@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lonely lamp swaying in the wind</title>
+  
+  <subtitle>让生活变得从容</subtitle>
+  <link href="http://yideng.life/atom.xml" rel="self"/>
+  
+  <link href="http://yideng.life/"/>
+  <updated>2024-05-08T14:33:12.123Z</updated>
+  <id>http://yideng.life/</id>
+  
+  <author>
+    <name>一灯</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，生活！</title>
+    <link href="http://yideng.life/posts/a48aa4d/"/>
+    <id>http://yideng.life/posts/a48aa4d/</id>
+    <published>2024-05-08T14:32:17.000Z</published>
+    <updated>2024-05-08T14:33:12.123Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好，生活！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;你好，生活！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="首发" scheme="http://yideng.life/categories/%E9%A6%96%E5%8F%91/"/>
+    
+    
+    <category term="生活" scheme="http://yideng.life/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>

@@ -46,10 +46,9 @@ avatar_link: /
 favicon: /img/favicon.ico
 
 # 座右铭
-# mymotto:  关闭一言
-#  content: 用此内容代替一言
-# mymotto: 
-# content: 我的座右铭
+# 设置 mymotto 后不再请求随机一言，content 为显示内容（留空则不显示）
+mymotto:
+  content: ""
 
 # 网站开启时间
 startime: 2024/05/07

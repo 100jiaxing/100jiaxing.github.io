@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lonely lamp swaying in the wind</title>
+  
+  <subtitle>让生活变得从容</subtitle>
+  <link href="https://100jiaxing.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://100jiaxing.github.io/"/>
+  <updated>2026-09-03T18:42:18.296Z</updated>
+  <id>https://100jiaxing.github.io/</id>
+  
+  <author>
+    <name>一灯</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，世界</title>
+    <link href="https://100jiaxing.github.io/posts/acf5da54/"/>
+    <id>https://100jiaxing.github.io/posts/acf5da54/</id>
+    <published>2026-09-03T16:30:31.000Z</published>
+    <updated>2026-09-03T18:42:18.296Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>雄关漫道真如铁，而今迈步从头越……</p>        <div id="aplayer-ODBitTpc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-ODBitTpc"),            narrow: true,            autoplay: true,            showlrc: 3,            music: {              title: "《长安，长安》",              author: "郑钧",              url: "https://100jiaxing.github.io/music/郑钧 - 长安长安.flac",              pic: "https://100jiaxing.github.io/music/长安长安.jpg",              lrc: "https://100jiaxing.github.io/music/郑钧 - 长安长安.lrc"            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="1" scheme="https://100jiaxing.github.io/categories/1/"/>
+    
+    <category term="2" scheme="https://100jiaxing.github.io/categories/1/2/"/>
+    
+    
+    <category term="1" scheme="https://100jiaxing.github.io/tags/1/"/>
+    
+    <category term="2" scheme="https://100jiaxing.github.io/tags/2/"/>
+    
+  </entry>
+  
+</feed>

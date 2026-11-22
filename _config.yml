@@ -149,6 +149,6 @@ music: https://100jiaxing.github.io/music
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: 
-    github: git@github-blog:100jiaxing/100jiaxing.github.io.git
+  repo: https://github.com/100jiaxing/100jiaxing.github.io.git
   branch: master
+  remote: origin

@@ -6,7 +6,7 @@
   <link href="https://100jiaxing.github.io/atom.xml" rel="self"/>
   
   <link href="https://100jiaxing.github.io/"/>
-  <updated>2026-09-03T18:42:18.296Z</updated>
+  <updated>2026-11-22T15:20:25.689Z</updated>
   <id>https://100jiaxing.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://100jiaxing.github.io/posts/acf5da54/"/>
     <id>https://100jiaxing.github.io/posts/acf5da54/</id>
     <published>2026-09-03T16:30:31.000Z</published>
-    <updated>2026-09-03T18:42:18.296Z</updated>
+    <updated>2026-11-22T15:20:25.689Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>雄关漫道真如铁，而今迈步从头越……</p>        <div id="aplayer-ODBitTpc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-ODBitTpc"),            narrow: true,            autoplay: true,            showlrc: 3,            music: {              title: "《长安，长安》",              author: "郑钧",              url: "https://100jiaxing.github.io/music/郑钧 - 长安长安.flac",              pic: "https://100jiaxing.github.io/music/长安长安.jpg",              lrc: "https://100jiaxing.github.io/music/郑钧 - 长安长安.lrc"            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>雄关漫道真如铁，而今迈步从头越……</p>        <div id="aplayer-fVtjiBbt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-fVtjiBbt"),            narrow: true,            autoplay: false,            showlrc: 3,            music: {              title: "《长安，长安》",              author: "郑钧",              url: "https://100jiaxing.github.io/music/郑钧 - 长安长安.flac",              pic: "https://100jiaxing.github.io/music/长安长安.jpg",              lrc: "https://100jiaxing.github.io/music/郑钧 - 长安长安.lrc"            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
     
     
       

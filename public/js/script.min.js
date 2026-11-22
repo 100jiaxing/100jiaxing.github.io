@@ -381,7 +381,7 @@ function elasticText() {
 		n1: function() {
 			const t = this
 			if (t.u <= 0) {
-				console.warn('hover.js错误')
+				void 0
 				return false
 			}
 			if (t.u === 1) {

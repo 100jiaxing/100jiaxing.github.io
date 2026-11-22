@@ -543,7 +543,7 @@
 			'waves-button'
 		])
 	} else {
-		console.error('Waves loading failed.')
+		void 0
 	}
 }(window, document))
 
@@ -576,12 +576,12 @@
 
 					success(searchData)
 				} else {
-					console.error(this.statusText)
+					void 0
 				}
 			}
 
 			xhr.onerror = function() {
-				console.error(this.statusText)
+				void 0
 			}
 
 			xhr.send()
